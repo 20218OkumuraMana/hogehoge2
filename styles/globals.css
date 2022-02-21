@@ -14,3 +14,24 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.best-dog{
+  color: red;
+}
+
+h1{
+  font-size: 1.5rem;
+  color: yellowgreen;
+}
+
+.fish-title {
+  color: rgb(37, 0, 139);
+}
+
+.kita-taiheiyou{
+  color: red;
+}
+
+.bold{
+  font-weight: bold;
+}
